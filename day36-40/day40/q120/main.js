@@ -2,7 +2,7 @@
 var favouriteMovies = [
     "The Message",
     "Drillis Ertughral(Series)",
-    "Kurulus Osman(Series)"
+    "Kurulus Osman(Series)",
 ];
 for (var _i = 0, favouriteMovies_1 = favouriteMovies; _i < favouriteMovies_1.length; _i++) {
     var movie = favouriteMovies_1[_i];
