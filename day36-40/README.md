@@ -17,4 +17,4 @@
 <h1>🚀 Day 40 Challenge! 🚀</h1>
 <p><h3><strong>Q118.Use for loop:</strong></h3>Write a loop that logs numbers from 1 to 10 to the console.</p>
 <p><h3><strong>Q119.Use while loop:</strong></h3>Create a while loop that logs "Hello, World!" 5 times.</p>
-<p><h3><strong>Q110.Use a for...of loop:</strong></h3>Use a for...of loop to iterate through an array of your favorite movies and log each one.</p>
+<p><h3><strong>Q120.Use a for...of loop:</strong></h3>Use a for...of loop to iterate through an array of your favorite movies and log each one.</p>
